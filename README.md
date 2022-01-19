@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yougesh392
 - 👀 I’m interested in Software Development  
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
+- ✨ I have one year of experience as a Software Developer Using Reactjs and C# .Net Frramework.
+- 🌱 I’m currently a Grad Student in Computer Science at Maharishi International Universit
 - 📫 How to reach me linkedIn https://www.linkedin.com/in/yougesh-kumar/
 
 <!---
