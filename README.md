@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yougesh392
 - 👀 I’m interested in Software Development  
-- ✨ I have around 4 year of experience as a Software Developer Using Reactjs and Java.
+- ✨ I have around 3+ year of experience as a Software Developer 
 - 📫 How to reach me linkedIn https://www.linkedin.com/in/yougesh-kumar/
 
 <!---
